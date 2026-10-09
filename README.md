@@ -36,7 +36,7 @@ npm test
       "startDate": "2026-09-08",        // 開催日のうち最初の日
       "endDate": "2026-10-12",          // 開催日のうち最後の日
       "location": "吉田キャンパス・オンライン",
-      "category": "学ぶ・講座",          // アプリの分類。対応表は src/config.ts
+      "category": "講座・見学会",        // アプリに出す分類。公式のタグの言い換え。対応表は src/config.ts
       "sourceTag": "公開講座",           // 公式サイトのタグ
       "organizer": "…",                 // 関連部局
       "description": "…",               // 紹介文

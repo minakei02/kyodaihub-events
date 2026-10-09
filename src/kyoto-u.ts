@@ -1,14 +1,13 @@
 import * as cheerio from 'cheerio';
 import {
   CATEGORY_BY_TAG,
-  FALLBACK_CATEGORY,
   LIST_PATH,
   MAX_LIST_PAGES,
   REQUEST_INTERVAL_MS,
   REQUEST_TIMEOUT_MS,
   SITE_ORIGIN,
+  UNTAGGED_CATEGORY,
   USER_AGENT,
-  type AppCategory,
 } from './config.ts';
 import { cleanInline, htmlToText, parseEventDates } from './text.ts';
 
@@ -34,7 +33,9 @@ export type ScrapedEvent = {
   startDate: string;
   endDate: string;
   location: string;
-  category: AppCategory;
+  /** アプリに出す分類の名前 */
+  category: string;
+  /** 京大サイトのタグ（原文） */
   sourceTag: string;
   organizer: string;
   description: string;
@@ -216,7 +217,7 @@ export function parseDetailPage(html: string, card: ListCard): ScrapedEvent {
     startDate: dates[0],
     endDate: dates[dates.length - 1],
     location: venues.join('・'),
-    category: CATEGORY_BY_TAG[sourceTag] ?? FALLBACK_CATEGORY,
+    category: CATEGORY_BY_TAG[sourceTag] ?? (sourceTag || UNTAGGED_CATEGORY),
     sourceTag,
     organizer: items('.field--name-field-department-tag').join('・'),
     description: blockText('.field--name-body'),

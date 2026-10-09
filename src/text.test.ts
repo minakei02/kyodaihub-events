@@ -133,7 +133,7 @@ test('詳細: 各項目を読み取る', () => {
     startDate: '2026-09-08',
     endDate: '2026-10-12',
     location: '吉田キャンパス・オンライン',
-    category: '学ぶ・講座',
+    category: '講座・見学会',
     sourceTag: '公開講座',
     organizer: '文学部・京大オリジナル',
     description: '紹介文です。',
@@ -181,6 +181,18 @@ test('詳細: チラシがなければ、一覧のカードの画像を使う', 
   const event = parseDetailPage(NO_POSTER_HTML, card);
   assert.equal(event.posterUrl, card.imageUrl);
   assert.equal(event.posterFallbackUrl, card.imageFallbackUrl);
+});
+
+test('詳細: 対応表にないタグは公式の名前のまま、タグなしは「その他」にする', () => {
+  const card = {
+    path: '/ja/event/2026-07-15',
+    href: 'https://www.kyoto-u.ac.jp/ja/event/2026-07-15',
+    title: '題名',
+    imageUrl: null,
+    imageFallbackUrl: null,
+  };
+  assert.equal(parseDetailPage(DETAIL_HTML.replace('公開講座', '新しいタグ'), card).category, '新しいタグ');
+  assert.equal(parseDetailPage(DETAIL_HTML.replace('公開講座', ''), card).category, 'その他');
 });
 
 test('詳細: 開催日が読めなければ失敗にする', () => {
