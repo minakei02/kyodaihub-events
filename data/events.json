@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-09T14:46:32.591Z",
+ "generatedAt": "2026-10-09T15:04:41.300Z",
  "source": "https://www.kyoto-u.ac.jp/ja/event",
  "events": [
   {
@@ -9,7 +9,7 @@
    "startDate": "2026-10-07",
    "endDate": "2026-11-29",
    "location": "吉田キャンパス",
-   "category": "展示・大学の催し",
+   "category": "展示・イベント",
    "sourceTag": "社会連携",
    "organizer": "総合博物館・化学研究所",
    "description": "",
@@ -260,7 +260,7 @@
    "startDate": "2026-10-16",
    "endDate": "2026-10-25",
    "location": "オンライン",
-   "category": "展示・大学の催し",
+   "category": "展示・イベント",
    "sourceTag": "社会連携",
    "organizer": "成長戦略本部",
    "description": "京都大学では学生の活動を支援するため、本学の学生団体を応援するオンラインチャリティーイベント「Kyoto University Giving Campaign 2026」を開催します。\n\n昨年に引き続き、本イベントは、本学主催のもと株式会社Alumnote（アルムノート）と共同で開催され、参加者は特設サイトからお気に入りの学生団体を選んで投票するだけでなく、応援メッセージを送ったり、選んだ団体に直接寄付を行うことができたりと様々な形で頑張る学生を応援することができます。\n\nまた、イベント終了後、学生団体には期間中に得た「得票数」をもとに、パートナー企業から活動資金が提供され、課外活動の支援につながります。\n\n多くの皆さまのご参加をお待ちしています。",
@@ -999,7 +999,7 @@
    "startDate": "2026-11-04",
    "endDate": "2026-12-27",
    "location": "吉田キャンパス",
-   "category": "展示・大学の催し",
+   "category": "展示・イベント",
    "sourceTag": "社会連携",
    "organizer": "総合博物館",
    "description": "",
@@ -1187,7 +1187,7 @@
    "startDate": "2026-11-07",
    "endDate": "2026-11-07",
    "location": "吉田キャンパス",
-   "category": "展示・大学の催し",
+   "category": "展示・イベント",
    "sourceTag": "社会連携",
    "organizer": "成長戦略本部",
    "description": "",
