@@ -1,0 +1,5 @@
+node_modules/
+# 生成物。GitHub Actions が毎回作って GitHub Pages に公開する
+dist/
+.previous/
+.DS_Store

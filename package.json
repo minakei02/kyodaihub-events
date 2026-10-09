@@ -1,0 +1,22 @@
+{
+  "name": "kyodaihub-events",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "京都大学公式サイトのイベント情報を、京大ポケット用の静的ファイル（events.json と画像）にまとめる",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "sync": "node src/sync.ts",
+    "test": "node --test \"src/**/*.test.ts\""
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "sharp": "^0.35.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "typescript": "^7.0.2"
+  }
+}
