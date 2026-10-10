@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-09T15:04:41.300Z",
+ "generatedAt": "2026-10-10T00:13:40.865Z",
  "source": "https://www.kyoto-u.ac.jp/ja/event",
  "events": [
   {
@@ -60,30 +60,6 @@
     {
      "thumbnail": "images/ku-2026-09-16/789a8fab55-thumb.webp",
      "image": "images/ku-2026-09-16/789a8fab55-cover.webp"
-    }
-   ]
-  },
-  {
-   "id": "ku-2026-09-03",
-   "title": "「海外で働く」ということ －シンガポールで研究する、サイボーグ昆虫から機能性材料まで",
-   "startDate": "2026-10-09",
-   "endDate": "2026-10-09",
-   "location": "吉田キャンパス",
-   "category": "研究・シンポジウム",
-   "sourceTag": "研究",
-   "organizer": "総合生存学館（思修館）",
-   "description": "",
-   "sections": [
-    {
-     "title": "開催概要",
-     "text": "■ 開催日\n2026年10月09日 金曜日\n\n■ 対象\n在学生の方、一般・地域の方\n\n■ 申し込み\n不要"
-    }
-   ],
-   "externalUrl": "https://www.gsais.kyoto-u.ac.jp/news/new/2026/09/02/20261009_event/",
-   "images": [
-    {
-     "thumbnail": "images/ku-2026-09-03/6b9d63c185-thumb.webp",
-     "image": "images/ku-2026-09-03/6b9d63c185-cover.webp"
     }
    ]
   },
@@ -1242,30 +1218,6 @@
     {
      "thumbnail": "images/ku-2026-09-28/d0d2257e7f-thumb.webp",
      "image": "images/ku-2026-09-28/d0d2257e7f-cover.webp"
-    }
-   ]
-  },
-  {
-   "id": "ku-2026-10-06-0",
-   "title": "令和8年度 京都大学生存圏研究所 公開講座「持続可能な社会発展を目指して」",
-   "startDate": "2026-11-13",
-   "endDate": "2027-02-05",
-   "location": "オンライン",
-   "category": "講座・見学会",
-   "sourceTag": "公開講座",
-   "organizer": "生存圏研究所",
-   "description": "",
-   "sections": [
-    {
-     "title": "開催概要",
-     "text": "■ 開催日\n2026年11月13日 金曜日\n2026年12月11日 金曜日\n2027年01月08日 金曜日\n2027年02月05日 金曜日\n\n■ 対象\n在学生の方、一般・地域の方\n\n■ 申し込み\n要申し込み"
-    }
-   ],
-   "externalUrl": "https://www.rish.kyoto-u.ac.jp/rish_koukaikouza_r8/",
-   "images": [
-    {
-     "thumbnail": "images/ku-2026-10-06-0/94ae0f8966-thumb.webp",
-     "image": "images/ku-2026-10-06-0/94ae0f8966-cover.webp"
     }
    ]
   },
