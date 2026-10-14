@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-13T23:49:10.789Z",
+ "generatedAt": "2026-10-14T23:22:24.995Z",
  "source": "https://www.kyoto-u.ac.jp/ja/event",
  "events": [
   {
@@ -1365,6 +1365,30 @@
     {
      "thumbnail": "images/ku-2026-09-11-0/ad92b27f76-thumb.webp",
      "image": "images/ku-2026-09-11-0/ad92b27f76-cover.webp"
+    }
+   ]
+  },
+  {
+   "id": "ku-2026-10-14",
+   "title": "第7回光量子センシングワークショップ「量子もつれで拓く新しい光センシング・赤外光子検出の未来 〜Q-LEAPプロジェクト10年の成果〜」",
+   "startDate": "2026-11-27",
+   "endDate": "2026-11-27",
+   "location": "桂キャンパス・オンライン",
+   "category": "講座・見学会",
+   "sourceTag": "公開講座",
+   "organizer": "工学部・工学研究科",
+   "description": "",
+   "sections": [
+    {
+     "title": "開催概要",
+     "text": "■ 開催日\n2026年11月27日 金曜日\n\n■ 対象\n在学生の方、一般・地域の方、企業・研究者の方\n\n■ 申し込み\n要申し込み"
+    }
+   ],
+   "externalUrl": "https://www.t.kyoto-u.ac.jp/ja/news-events/events/admg/photonsensingws7",
+   "images": [
+    {
+     "thumbnail": "images/ku-2026-10-14/0f40bc94e4-thumb.webp",
+     "image": "images/ku-2026-10-14/0f40bc94e4-cover.webp"
     }
    ]
   },
