@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-23T23:20:20.736Z",
+ "generatedAt": "2026-10-24T22:39:48.142Z",
  "source": "https://www.kyoto-u.ac.jp/ja/event",
  "events": [
   {
@@ -57,30 +57,6 @@
    ],
    "externalUrl": "https://www.kyoto-u.ac.jp/ja/event/2026-10-08",
    "images": []
-  },
-  {
-   "id": "ku-2026-09-04",
-   "title": "AMED医学系研究支援プログラム「京都大学研究力向上計画」主催 第2回公開シンポジウム「がんを知る、見る、治す」",
-   "startDate": "2026-10-23",
-   "endDate": "2026-10-23",
-   "location": "吉田キャンパス・オンライン",
-   "category": "研究・シンポジウム",
-   "sourceTag": "研究",
-   "organizer": "医学部・医学研究科・医学部附属病院・成長戦略本部・総合研究推進本部",
-   "description": "",
-   "sections": [
-    {
-     "title": "開催概要",
-     "text": "■ 開催日\n2026年10月23日 金曜日\n\n■ 対象\n在学生の方、企業・研究者の方\n\n■ 申し込み\n要申し込み"
-    }
-   ],
-   "externalUrl": "https://iac.kyoto-u.ac.jp/event/ev01-69/",
-   "images": [
-    {
-     "thumbnail": "images/ku-2026-09-04/7428754853-thumb.webp",
-     "image": "images/ku-2026-09-04/7428754853-cover.webp"
-    }
-   ]
   },
   {
    "id": "ku-2026-07-01-3",
