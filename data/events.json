@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-18T02:32:25.879Z",
+ "generatedAt": "2026-11-19T01:57:31.925Z",
  "source": "https://www.kyoto-u.ac.jp/ja/event",
  "events": [
   {
@@ -48,30 +48,6 @@
     {
      "thumbnail": "images/ku-2026-10-02/dba9755b8d-thumb.webp",
      "image": "images/ku-2026-10-02/dba9755b8d-cover.webp"
-    }
-   ]
-  },
-  {
-   "id": "ku-2026-08-24-0",
-   "title": "2026年度 産業応用のための基礎化学講座",
-   "startDate": "2026-10-07",
-   "endDate": "2027-01-15",
-   "location": "その他の地域・オンライン",
-   "category": "講座・見学会",
-   "sourceTag": "公開講座",
-   "organizer": "福井謙一記念研究センター",
-   "description": "",
-   "sections": [
-    {
-     "title": "開催概要",
-     "text": "■ 開催日\n2026年10月07日 水曜日\n2026年10月30日 金曜日\n2026年11月18日 水曜日\n2026年12月04日 金曜日\n2026年12月25日 金曜日\n2027年01月15日 金曜日\n\n■ 対象\n企業・研究者の方\n\n■ 申し込み\n要申し込み"
-    }
-   ],
-   "externalUrl": "https://www.fukui.kyoto-u.ac.jp/openlec2026",
-   "images": [
-    {
-     "thumbnail": "images/ku-2026-08-24-0/be4ec01a30-thumb.webp",
-     "image": "images/ku-2026-08-24-0/be4ec01a30-cover.webp"
     }
    ]
   },
@@ -514,6 +490,30 @@
    ]
   },
   {
+   "id": "ku-2026-08-24-0",
+   "title": "2026年度 産業応用のための基礎化学講座",
+   "startDate": "2026-10-07",
+   "endDate": "2027-01-15",
+   "location": "その他の地域・オンライン",
+   "category": "講座・見学会",
+   "sourceTag": "公開講座",
+   "organizer": "福井謙一記念研究センター",
+   "description": "",
+   "sections": [
+    {
+     "title": "開催概要",
+     "text": "■ 開催日\n2026年10月07日 水曜日\n2026年10月30日 金曜日\n2026年11月18日 水曜日\n2026年12月04日 金曜日\n2026年12月25日 金曜日\n2027年01月15日 金曜日\n\n■ 対象\n企業・研究者の方\n\n■ 申し込み\n要申し込み"
+    }
+   ],
+   "externalUrl": "https://www.fukui.kyoto-u.ac.jp/openlec2026",
+   "images": [
+    {
+     "thumbnail": "images/ku-2026-08-24-0/be4ec01a30-thumb.webp",
+     "image": "images/ku-2026-08-24-0/be4ec01a30-cover.webp"
+    }
+   ]
+  },
+  {
    "id": "ku-2026-08-21-0",
    "title": "第155回京都大学丸の内セミナー「宇宙へと拡大する人間活動を取り巻く宇宙環境：地球、月、そして火星」",
    "startDate": "2026-12-04",
@@ -944,6 +944,30 @@
     {
      "thumbnail": "images/ku-2026-09-30-0/61e096f89a-thumb.webp",
      "image": "images/ku-2026-09-30-0/61e096f89a-cover.webp"
+    }
+   ]
+  },
+  {
+   "id": "ku-2026-11-18",
+   "title": "分野横断ワークショップ「生き抜く力、適応力」",
+   "startDate": "2026-12-26",
+   "endDate": "2026-12-26",
+   "location": "吉田キャンパス",
+   "category": "研究・シンポジウム",
+   "sourceTag": "研究",
+   "organizer": "総合研究推進本部",
+   "description": "",
+   "sections": [
+    {
+     "title": "開催概要",
+     "text": "■ 開催日\n2026年12月26日 土曜日\n\n■ 対象\n在学生の方、一般・地域の方、企業・研究者の方\n\n■ 申し込み\n要申し込み"
+    }
+   ],
+   "externalUrl": "https://ku.research.kyoto-u.ac.jp/workshop/w149/",
+   "images": [
+    {
+     "thumbnail": "images/ku-2026-11-18/4e6b2ebcdc-thumb.webp",
+     "image": "images/ku-2026-11-18/4e6b2ebcdc-cover.webp"
     }
    ]
   },
